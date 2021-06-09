@@ -1,0 +1,2 @@
+ Name='result' Type='mamdani' Version=2.0 NumInputs=1 NumOutputs=2 NumRules=8 AndMethod='min' OrMethod='max' ImpMethod='min' AggMethod='max'
+DefuzzMethod='centroid'

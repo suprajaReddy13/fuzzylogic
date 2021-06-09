@@ -1,0 +1,10 @@
+Name='load(kw)' Range=[0 600] NumMFs=8
+MF1='VLL':'trimf',[0 50 100]
+MF2='LL':'trimf',[70 120 170]
+MF3='ML':'trimf',[130 180 230]
+
+MF4='PL':'trimf',[200 250 300]
+MF5='SOL':'trimf',[250 300 350]
+MF6='MOL':'trimf',[330 380 430]
+MF7='OL':'trimf',[400 450 500]
+MF8='HOL':'trimf',[470 535 600]

@@ -1,0 +1,10 @@
+Name='change' Range=[-300 300]
+NumMFs=8
+MF1='HS':'trimf',[-300 -235 -170]
+MF2='S':'trimf',[-200 -150 -100]
+MF3='MS':'trimf',[-130 -80 -30]
+MF4='SS':'trimf',[-100 -25 50]
+MF5='PA':'trimf',[-0 50 100]
+MF6='MA':'trimf',[70 120 170]
+MF7='LA':'trimf',[130 180 230]
+MF8='VLA':'trimf',[200 250 300]
